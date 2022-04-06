@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+	background-color: rgb(5, 32, 67);
+	color: white;
+}
+
+#banner {
+  	   background-image: url('banner.jpg');
+  	   background-size: cover;
+  	   background-repeat: no-repeat;
+    }  
+
+.bannner {
+  	   padding-bottom: 400px;
+
+    }
+
+.add{
+	padding-top: 10px;
+	width: 100%;
+	background-color: rgb(3, 22, 45);
+	text-align: center;
+
+}
+
+#movieInput{
+width: 250px;
+}
+
+.movie{
+  text-align: center; 
+  padding-top: 150px;
+}
+
+#img{
+	width: 350px;
+}
+
+#footer {
+   text-align: center;
+   background-color: rgb(3, 22, 45);
+   margin-top: 236px;
+   padding: 10px;
+}
